@@ -1,7 +1,7 @@
 # java-tutorials
 A backup for my Java Tutorials. These are all publicly available in a much better form at cis.gvsu.edu/~vandykti/Java
 
-##about me
+## About me
 ```
 I am a Computer Science major at Grand Valley State University in Michigan. 
 I am building these tutorials for my brothers, and thought they could be useful to others as well. 
