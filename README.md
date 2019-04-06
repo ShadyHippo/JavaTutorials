@@ -3,7 +3,10 @@ A backup for my Java Tutorials. These are all publicly available in a much bette
 
 ##about me
 ```
-I am a Computer Science major at Grand Valley State University in Michigan and was building these tutorials for my brother. I'm also in a web development class and finally had an idea for a website I could make for people! I am very excited to have these available for people. 
+I am a Computer Science major at Grand Valley State University in Michigan. 
+I am building these tutorials for my brothers, and thought they could be useful to others as well. 
+I'm also in a web development class and finally had an idea for a website I could make for people!
+I am very excited to have these available for people. 
 ```
 
 ## Project setup
