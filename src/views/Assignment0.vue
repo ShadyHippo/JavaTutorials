@@ -40,11 +40,15 @@
           <li>Click the dropdown</li>
           <li>Right click the src folder and select New > Class</li>
           <li>Name it Main and click Finish. <i>NOTE: Feel free to ignore the package warning for now. We'll get into that later</i></li>
-          <li>Paste the following code into your class. 
-<pre><code class="language-java">
+          <li>Paste the following code into your class.
+
+
+<pre><code class="language-java" >
 public static void main(String[] args) {
     System.out.println("hi");
 }</code></pre>
+
+
           </li>
           <li>It should look something like this: 
             <img alt="explain meme" src="../assets/Assignment0/image3.png" align='center' class="picture">

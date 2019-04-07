@@ -46,7 +46,7 @@
   top: 20px;
   left: 10px;
   background: #eee;
-  overflow-x: hidden;
+  /*overflow-x: hidden; TRY MOUSOVER TEXT NOW AFTER THIS*/
   padding: 8px 0;
 }
 
