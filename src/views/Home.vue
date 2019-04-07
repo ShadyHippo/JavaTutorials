@@ -22,7 +22,7 @@
     <p class="body">However, after a certain point it's time to say "this is a waste of time I'm not making progress", and ask me a question or two. I generally tend to be more thorough than needed, and if I start rambling tell me. </p>
     
     
-    <h2 class="indentHeading">Objective / IMPORTANT</h2>
+    <h2 class="indentHeading">Objective / IMPORTANT / Concepts</h2>
     <p class="body">Says what concepts we are covering and what the goal of the assignment is. Sometimes I will give a heads up on something or an explanation of a portion of how something in the code works if I think having the context is necessary beforehand. </p>
     
     
