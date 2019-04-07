@@ -63,7 +63,7 @@ public static void main(String[] args) {
     
     
     <h3 class="indentHeading">CONGRATULATIONS!</h3>
-    <p class="body">You have now completely writing your first Java Program</p>
+    <p class="body">You have now completed writing your first Java Program</p>
     
     
     <h1 class="indentHeading">Helpful Hints: </h1>
